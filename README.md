@@ -6,28 +6,28 @@
   <a href="https://twitterdepressionanalysis.netlify.app">Demo</a>
 </div> -->
 
-<h1 align="center" id="top">Twitter Depression Analysis</h1>
+<h1 align="center" id="top"><a style="color:#1DA1F2;">Twitter</a> <a style="color:#1DA1AF;">Depression Analysis</a></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/JuanS3/twitter-depression-analysis?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/JuanS3/twitter-depression-analysis?color=ff7e00">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/JuanS3/twitter-depression-analysis?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/JuanS3/twitter-depression-analysis?color=ff7e00">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JuanS3/twitter-depression-analysis?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JuanS3/twitter-depression-analysis?color=ff7e00">
 
-  <img alt="License" src="https://img.shields.io/github/license/JuanS3/twitter-depression-analysis?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/JuanS3/twitter-depression-analysis?color=ff7e00">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/JuanS3/twitter-depression-analysis?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/JuanS3/twitter-depression-analysis?color=ff7e00" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/JuanS3/twitter-depression-analysis?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/JuanS3/twitter-depression-analysis?color=ff7e00" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/JuanS3/twitter-depression-analysis?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/JuanS3/twitter-depression-analysis?color=ff7e00" /> -->
 </p>
 
 <!-- Status -->
 
 <h4 align="center">
-  🚧  Twitter Depression Analysis 🚀 Under construction...  🚧
+  🚧  <a style="color:#1DA1F2;">Twitter</a> <a style="color:#1DA1AF;">Depression Analysis</a> 🚀 Under construction...  🚧
 </h4>
 
 <hr>
@@ -44,11 +44,10 @@
 
 <br>
 
-## :dart: About ##
+<h2> :dart: <a style="color:#1DA1F2;">Ab</a><a style="color:#1DA1AF;">out</a></h2>
 
 
-
-### Dataset description ###
+<h3><a style="color:#1DA1F2;">Dataset</a> <a style="color:#1DA1AF;">description</a></h3>
 
 Datased in [***data/spanish_tweets_suggesting_signs_of_depression_v1.csv***](data/spanish_tweets_suggesting_signs_of_depression_v1.csv) is taken from [Kaggle](https://www.kaggle.com/datasets/francescoronzano/spanish-tweets-suggesting-depression), you can find it here [https://www.kaggle.com/datasets/francescoronzano/spanish-tweets-suggesting-depression](https://www.kaggle.com/datasets/francescoronzano/spanish-tweets-suggesting-depression).
 
@@ -59,24 +58,30 @@ Datased in [***data/spanish_tweets_suggesting_signs_of_depression_v1.csv***](dat
 > In the previous publication, this dataset is referred to as the "Depressive users dataset".
 
 
-## :sparkles: Features ##
+<h2> :sparkles: <a style="color:#1DA1F2;">Fe</a><a style="color:#1DA1AF;">atures</a></h2>
 
 :heavy_check_mark: Feature 1;\
 :heavy_check_mark: Feature 2;\
 :heavy_check_mark: Feature 3;
 
-## :rocket: Technologies ##
+
+<h2> :rocket: <a style="color:#1DA1F2;">Te</a><a style="color:#1DA1AF;">chnologies</a></h2>
 
 The following tools were used in this project:
 
 - [Python 3.8+](https://www.python.org/)
-- [Jupyter](https://jupyter.org/)
+- [Jupyter Notebook](https://jupyter.org/)
 
-## :white_check_mark: Requirements ##
+
+<h2> :white_check_mark: <a style="color:#1DA1F2;">Re</a><a style="color:#1DA1AF;">quirements</a></h2>
+
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Python 3.8+](https://www.python.org/) installed.
 
-## :checkered_flag: Starting ##
+
+
+<h2> :checkered_flag: <a style="color:#1DA1F2;">St</a><a style="color:#1DA1AF;">arting</a></h2>
+
 
 ```bash
 # Clone this project
@@ -89,7 +94,8 @@ $ cd twitter-depression-analysis
 $ pip install -r requirements.txt
 ```
 
-## :memo: License ##
+
+<h2> :memo: <a style="color:#1DA1F2;">Li</a><a style="color:#1DA1AF;">cense</a></h2>
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
