@@ -97,7 +97,7 @@ $ pip install -r requirements.txt
 
 <h2> :memo: <a style="color:#1DA1F2;">Li</a><a style="color:#1DA1AF;">cense</a></h2>
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/JuanS3" target="_blank">Juan Sebastián Martínez Serna</a>
